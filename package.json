@@ -1,5 +1,5 @@
 {
-  "name": "pancrea-path",
+  "name": "turborepo-drizzle-starter",
   "private": true,
   "scripts": {
     "build": "dotenv -- turbo run build",
